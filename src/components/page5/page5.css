@@ -1,0 +1,57 @@
+.Page5 {
+  margin-top: auto;
+  left: 0px;
+  width: 100%;
+  height: 32rem;
+  background: #0864b1 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.Page5TitleText {
+  position: absolute;
+  top: 4399px;
+  left: 174px;
+  width: 607px;
+  height: 256px;
+  text-align: left;
+  font: normal normal bold 75px/86px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.Page5InputBox {
+  position: absolute;
+  top: 4415px;
+  left: 1146px;
+  width: 600px;
+  height: 100px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 2px 2px 6px #67676733;
+  opacity: 1;
+  text-align: left;
+  font: normal normal normal 30px/30px Ubuntu;
+  letter-spacing: 0px;
+  color: #67676733;
+  opacity: 1;
+}
+.Page5NewsletterText {
+  position: absolute;
+  top: 4578px;
+  left: 1288px;
+  padding: 16px 32px;
+  text-align: center;
+  text-align: center;
+  font: normal normal bold 35px/30px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  box-shadow: 3px 4px 8px #0864b11a;
+  border: 5px solid #ffffff;
+  text-decoration: none;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.Page5NewsletterText:hover {
+  background-color: white;
+  color: #0864b1;
+  border-radius: 1rem;
+}

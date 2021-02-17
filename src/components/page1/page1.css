@@ -1,0 +1,105 @@
+.Page1 {
+  left: 0px;
+  width: 100%;
+  height: 67rem;
+  background: #0864b1 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.Page1Header {
+  margin-top: 0rem;
+  margin-left: 0rem;
+  width: 110rem;
+  height: 130px;
+  background: #0864b1 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.Page1HeaderButtons {
+  margin-top: 1rem;
+  padding: 0px 32px;
+  text-align: center;
+  font: normal normal normal 30px/80px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  text-decoration: none;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  opacity: 1;
+  z-index: 2;
+}
+.Page1HeaderButtons:hover {
+  background-color: white;
+  color: #0864b1;
+  border-radius: 1rem;
+}
+.Page1HeaderButton1 {
+  float: right;
+}
+.Page1HeaderButton2 {
+  float: right;
+}
+.Page1HeaderButton3 {
+  float: right;
+}
+.Page1HeaderText {
+  margin-top: 2rem;
+  margin-left: 8rem;
+  float: left;
+  width: 280px;
+  height: 68px;
+  text-align: left;
+  font: normal normal bold 45px/80px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  z-index: 2;
+}
+
+.Page1HeaderImage {
+  float: right;
+  margin-top: 2rem;
+  margin-right: 15rem;
+  width: 688px;
+  height: 800px;
+  background: transparent url("../page1/HeaderVector.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  z-index: 1;
+}
+.Page1BackgroundImage {
+  margin-top: -8rem;
+  left: 0rem;
+  width: 1599px;
+  height: 100%;
+  background: transparent url("../page1/BackgroundShape.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  z-index: 1;
+}
+
+.Page1BodyText {
+  position: absolute;
+  top: 705px;
+  left: 186px;
+  width: 776px;
+  height: 300px;
+  text-align: left;
+  font: normal normal normal 35px/60px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  z-index: 2;
+}
+.Page1TitleText {
+  position: absolute;
+  top: 311px;
+  left: 187px;
+  width: 867px;
+  height: 327px;
+  text-align: left;
+  font: normal normal normal 100px/115px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  z-index: 2;
+}
